@@ -23,7 +23,7 @@ def pytest_configure(config):
     # config._metadata['Project Name'] = 'Nopcommerce'
     # config._metadata['Module Name'] = 'Customers'
     # config._metadata['Tester'] = 'Arun Honnappa'
-    config._metadata['Project Name'] = 'Application'
+    config._metadata['Project Name'] = 'Applicationabc'
     config._metadata['Module Name'] = 'Login'
     config._metadata['Tester'] = 'V'
     config._metadata['Package'] = 'python'
